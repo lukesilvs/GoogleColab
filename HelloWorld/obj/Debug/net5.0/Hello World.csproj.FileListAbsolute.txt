@@ -1,0 +1,16 @@
+/home/luke/Hello World/bin/Debug/net5.0/Hello World
+/home/luke/Hello World/bin/Debug/net5.0/Hello World.deps.json
+/home/luke/Hello World/bin/Debug/net5.0/Hello World.runtimeconfig.json
+/home/luke/Hello World/bin/Debug/net5.0/Hello World.runtimeconfig.dev.json
+/home/luke/Hello World/bin/Debug/net5.0/Hello World.dll
+/home/luke/Hello World/bin/Debug/net5.0/ref/Hello World.dll
+/home/luke/Hello World/bin/Debug/net5.0/Hello World.pdb
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.csprojAssemblyReference.cache
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.AssemblyInfoInputs.cache
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.AssemblyInfo.cs
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.csproj.CoreCompileInputs.cache
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.dll
+/home/luke/Hello World/obj/Debug/net5.0/ref/Hello World.dll
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.pdb
+/home/luke/Hello World/obj/Debug/net5.0/Hello World.genruntimeconfig.cache
